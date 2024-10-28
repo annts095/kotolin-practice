@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    // ここにライブラリやフレームワークの依存関係を追加していく
     testImplementation(kotlin("test"))
 }
 
